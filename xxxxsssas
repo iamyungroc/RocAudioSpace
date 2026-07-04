@@ -1,0 +1,6 @@
+cd rocaudio
+git init
+git add .
+git commit -m "RøcAudio rebuild"
+git remote add origin <your-new-repo-url>
+git push -u origin main
